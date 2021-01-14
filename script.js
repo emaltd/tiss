@@ -1,4 +1,3 @@
-alert ("Thanks you all for your support ! 😁  ")
 $(function() {
     $("#item").click(function() {
         $("#submenu").slideToggle(500);
@@ -18,4 +17,4 @@ $(function() {
         $(".challenger").hide ();
         });
     });
-}); 
+});
